@@ -1,0 +1,20 @@
+*{
+	box-sizing: border-box;
+}
+
+
+#conteneur {
+	width : 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+#calculateur {
+	display:flex;
+	flex-wrap: wrap;
+
+}
+#calculateur p {
+	border: 1px solid green;
+	width: 33.33%;
+	margin: 0;
+}

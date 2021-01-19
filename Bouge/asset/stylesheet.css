@@ -1,0 +1,38 @@
+*{
+	box-sizing: border-box;
+}
+
+
+#conteneur {
+	width : 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+#carre{
+	height: 150px;
+	width: 150px;
+	background-color: pink;
+	position: relative;
+	left: 10px;
+	top: 300px;
+}
+
+button {
+	position: relative;
+	top : 310px;
+	left: 120px;
+}
+#conteneur2 {
+	width : 80%;
+	margin: 0 auto;
+	text-align: center;
+	height: 400px;
+}
+#carre2{
+	height: 150px;
+	width: 150px;
+	background-color: pink;
+	position: relative;
+	left: 10px;
+	top:400px;
+}
